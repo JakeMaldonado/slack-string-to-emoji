@@ -1,0 +1,23 @@
+{
+  "name": "slack-emoji-to-ios",
+  "version": "1.0.0",
+  "description": "Convert slack emoji strings to iOS emojis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeMaldonado/slack-string-to-emoji.git"
+  },
+  "keywords": [
+    "slack",
+    "emoji"
+  ],
+  "author": "Jake Maldonado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JakeMaldonado/slack-string-to-emoji/issues"
+  },
+  "homepage": "https://github.com/JakeMaldonado/slack-string-to-emoji#readme"
+}
