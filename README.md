@@ -10,7 +10,7 @@ npm i slack-string-to-emoji
 
 ### Usage
 
-stringToEmoji accepts valid slack emoji strings as params. If an emoji is not found then an empty tring is returned.
+stringToEmoji accepts valid slack emoji strings as params. If an emoji is not found then an empty string is returned.
 
 ```js
 const stringToEmoji = require("slack-string-to-emoji");
