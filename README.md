@@ -5,7 +5,7 @@
 Install using this command
 
 ```bash
-npm i slack-string-to-emoji
+npm i slack-emoji-to-ios
 ```
 
 ### Usage
