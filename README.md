@@ -13,7 +13,7 @@ npm i slack-emoji-to-ios
 stringToEmoji accepts valid slack emoji strings as params. If an emoji is not found then an empty string is returned.
 
 ```js
-const { stringToEmoji, formatString } = require("slack-string-to-emoji");
+const { stringToEmoji, formatString } = require("slack-emoji-to-ios");
 
 const emoji = stringToEmoji(":smile:"); // will return 😄
 const noEmoji = stringToEmoji(":abcdefg:"); // will return ""
